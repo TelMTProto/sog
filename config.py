@@ -20,8 +20,10 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "www.Yadesh.ir"
+TLS_DOMAIN = "www.HideProxi.io"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "8bd7c59cd625d7991b86a77dfbc5fcff"
 
+#7gAAAAAAAAAAAAAAAAAAAAB3d3cuSGlkZVByb3hpLmlv
+#
