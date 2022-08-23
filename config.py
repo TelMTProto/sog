@@ -2,16 +2,16 @@ PORT = 443
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "20000002000022200000000200002200"
+    "tg":  "00000000000000000000000000000000"
 }
 
 MODES = {
     # Classic mode, easy to detect
-    "classic": True,
+    "classic": False,
 
     # Makes the proxy harder to detect
     # Can be incompatible with very old clients
-    "secure": True,
+    "secure": False,
 
     # Makes the proxy even more hard to detect
     # Can be incompatible with old clients
@@ -23,5 +23,5 @@ MODES = {
 TLS_DOMAIN = "www.Yadesh.ir"
 
 # Tag for advertising, obtainable from @MTProxybot
-AD_TAG = "d1cd833e886347155cc292f899891ef7"
+AD_TAG = "8bd7c59cd625d7991b86a77dfbc5fcff"
 
